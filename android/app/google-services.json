@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "191395515709",
+    "firebase_url": "https://yixinacademy-4ab9d.firebaseio.com",
+    "project_id": "yixinacademy-4ab9d",
+    "storage_bucket": "yixinacademy-4ab9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191395515709:android:adb1f7039e37af0d1cc954",
+        "android_client_info": {
+          "package_name": "onclass.yixinacademy.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191395515709-fvhq1ccell93rtg392rqjh8ku4good96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtByqsV-BZKvZmJNLIn52KcyqWZmRLS0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191395515709-fvhq1ccell93rtg392rqjh8ku4good96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
